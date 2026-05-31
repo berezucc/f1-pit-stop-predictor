@@ -2,6 +2,8 @@
 
 Link: https://f1-pit-stop-predictor-pdvwisqnemfckq4xfjsxap.streamlit.app/
 
+EDA + ML Development: https://github.com/berezucc/ml/tree/main/experiments/kaggle-f1-pit-stops
+
 Vibecoded streamlit app that predicts whether an F1 car pits on the next lap. Set the
 track, tyre compound and current lap state; it returns the pit probability, a
 BOX / STAY OUT call, and a curve of how that probability moves as the tyres age.
