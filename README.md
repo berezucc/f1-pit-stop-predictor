@@ -1,6 +1,8 @@
 # F1 Pit-Stop Predictor
 
-Streamlit app that predicts whether an F1 car pits on the next lap. Set the
+Link: https://f1-pit-stop-predictor-pdvwisqnemfckq4xfjsxap.streamlit.app/
+
+Vibecoded streamlit app that predicts whether an F1 car pits on the next lap. Set the
 track, tyre compound and current lap state; it returns the pit probability, a
 BOX / STAY OUT call, and a curve of how that probability moves as the tyres age.
 
